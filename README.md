@@ -1,4 +1,4 @@
-# Blog
+# Blog. 
 
 ![image_alt](https://github.com/sadafbegam/Blog/blob/d51252d6241b57d38bf1cb029c99f3fbeb8f257c/Screenshot%202026-03-21%20131209.png)
 ![image_alt](https://github.com/sadafbegam/Blog/blob/d51252d6241b57d38bf1cb029c99f3fbeb8f257c/Screenshot%202026-03-31%20111359.png)
